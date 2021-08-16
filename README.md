@@ -1,4 +1,4 @@
-# git-issue-practice
+# github-issue-practice
 
 ## 실습 내용
 
